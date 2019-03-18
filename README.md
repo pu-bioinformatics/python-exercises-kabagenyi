@@ -1,6 +1,6 @@
 ## Attempt-python-excercises
 
-The repository python-excercises-kabagenyi,contains four python scripts answering excercises in Jupyter notebooks:
+The repository python-excercises-kabagenyi,contains four python scripts answering excercises in Jupyter notebooks found here ![link](hhttps://github.com/BioinfoNet/Python4Bioinformatics/tree/master/Notebooks)
 
 - **excercise1.py** answers questions in **notebook2**
 - **excercise2.py** answers questions in **notebook4**
