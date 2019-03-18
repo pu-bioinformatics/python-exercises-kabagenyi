@@ -1,10 +1,9 @@
-# python-exercises
+## Attempt-python-excercises
 
-For each of the exercises in in the Jupyter Notebooks, you are required to create a Python Script, approriately named and stored in the right directory. Take note that you will be graded on:
-- how you organize your directories
-- How well you document your code and repo
-- How you use Git and GitHub (informative commit message, etc)
-- And the correctness of your scripts
+The repository python-excercises-kabagenyi,contains four python scripts answering excercises in Jupyter notebooks found here ![link](https://github.com/kabagenyi/Python4Bioinformatics2019/tree/master/Notebooks)
 
+- **excercise1.py** answers questions in **notebook2**
+- **excercise2.py** answers questions in **notebook4**
+- **excercise3.py** answers questions in **notebook5**
+- **excercise4.py** answers questions in **notebook6**
 
-Work through all the exercises to notebook 6
