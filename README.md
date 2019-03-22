@@ -7,3 +7,7 @@ The repository python-excercises-kabagenyi,contains four python scripts answerin
 - **excercise3.py** answers questions in **notebook5**
 - **excercise4.py** answers questions in **notebook6**
 
+## Commendts
+
+- Add comments to your scripts -1
+- Create a directory for your scripts -1 
